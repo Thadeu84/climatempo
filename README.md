@@ -1,7 +1,6 @@
 # Previsão de Chuva Horária-app - criado utilizando ReactJS
 Aplicação para visualizar dados climáticos das cidades.
 
-**Deploy: https://**
 
 A aplicação consome duas API's da [Open Weather Map](https://openweathermap.org/)
 - 1ª API: https://openweathermap.org/current  (Para receber os dados atuais)
