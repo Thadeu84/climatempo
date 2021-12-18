@@ -23,7 +23,14 @@ A aplicação consome duas API's da [Open Weather Map](https://openweathermap.or
 🔧 Instalação
 Para clonar o projeto via HTTPS, execute este comando:
 
-git clone https://github.com/maiconboer/weather-app.git
+git clone 🔧 Instalação
+Para clonar o projeto via HTTPS, execute este comando:
+
+git clone https://github.com/Thadeu84/climatempo
+Após a finalização do clone, instale as dependências com o comando:
+
+npm install  
+Com as instalações das dependencias finalizadas, podemos dar início a execução do projeto.
 Após a finalização do clone, instale as dependências com o comando:
 
 npm install  
